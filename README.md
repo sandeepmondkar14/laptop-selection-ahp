@@ -40,5 +40,6 @@ Based on initial impressions, I thought I would choose an Apple PC. However, dat
 
 This analysis was conducted using personal ranking criteria. Different criteria or weights will provide customized recommendations. The code can also adapt to different datasets, allowing for robust, data-driven decisions using AHP in various scenarios.
 
-## License
-This project is licensed under the MIT License.
+## Author
+Sandeep Mondkar
+
